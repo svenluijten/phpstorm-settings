@@ -1,0 +1,8 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Dependencies from package.json" displayType="NONE" shouldLog="false" />
+    <notification groupId="Docker: Dockerfile detection" displayType="NONE" shouldLog="false" />
+    <notification groupId="Laravel Plugin" displayType="STICKY_BALLOON" />
+    <notification groupId="Node.js interpreter" displayType="NONE" />
+  </component>
+</application>

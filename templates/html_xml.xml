@@ -1,0 +1,26 @@
+<templateSet group="html/xml">
+  <template name="CD" value="&lt;![CDATA[&#10;$SELECTION$&#10;]]&gt;" description="Surround with CDATA section" toReformat="false" toShortenFQNames="false">
+    <context>
+      <option name="COMPLETION" value="false" />
+      <option name="JSP" value="true" />
+      <option name="XSL_TEXT" value="true" />
+    </context>
+  </template>
+  <template name="aboot" value="&lt;a class=&quot;btn btn-$var1$&quot; href=&quot;{{ path('$var2$') }}&quot;&gt;$var3$&lt;/a&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="var2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="var3" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="bsin" value="&lt;div class=&quot;form-group {{ $errors-&gt;has('$INPUT$') ? 'has-error' : null }}&quot;&gt;&#10;    &lt;label for=&quot;$INPUT$&quot;&gt;$LABEL$&lt;/label&gt;&#10;    &lt;input type=&quot;$TYPE$&quot; name=&quot;$INPUT$&quot; class=&quot;form-control&quot; id=&quot;$INPUT$&quot;&gt;&#10;    &#10;    @if ($errors-&gt;has('$INPUT$'))&#10;        &lt;p class=&quot;help-block&quot;&gt;{{ $errors-&gt;first('$INPUT$') }}&lt;/p&gt;    &#10;    @endif&#10;&lt;/div&gt;" description="Bootstrap input field" toReformat="false" toShortenFQNames="true">
+    <variable name="INPUT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="LABEL" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TYPE" expression="" defaultValue="text" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="Twig" value="true" />
+    </context>
+  </template>
+</templateSet>
