@@ -8,19 +8,23 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="C:\tools\php71\php.exe" id="fbd73dc4-9234-41f0-a1f2-308b23ebdcef" name="PHP 7.1" debugger_id="php.debugger.XDebug" />
+      <interpreter id="fbd73dc4-9234-41f0-a1f2-308b23ebdcef" name="PHP 7.2" home="C:\Tools\php72\php.exe" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
-      <interpreter name="PHP 7.1">
-        <phpinfo binary_type="PHP" php_cgi="C:\tools\php71\php-cgi.exe" php_cli="C:\tools\php71\php.exe" path_separator=";" version="7.1.8">
+      <interpreter name="PHP 7.2">
+        <phpinfo binary_type="PHP" php_cgi="C:\Tools\php72\php-cgi.exe" php_cli="C:\Tools\php72\php.exe" path_separator=";" version="7.2.5">
           <additional_php_ini />
-          <configuration_file>C:\tools\php71\php.ini</configuration_file>
+          <configuration_file>C:\Tools\php72\php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="include_path" value=".;C:\php\pear" />
           </configuration_options>
-          <debuggers />
+          <debuggers>
+            <debugger_info debugger="xdebug" debugger_version="2.6.0">
+              <debug_extensions />
+            </debugger_info>
+          </debuggers>
           <loaded_extensions>
             <extension name="Core" />
             <extension name="PDO" />
@@ -37,26 +41,26 @@
             <extension name="fileinfo" />
             <extension name="filter" />
             <extension name="gd" />
+            <extension name="gettext" />
             <extension name="hash" />
             <extension name="iconv" />
             <extension name="json" />
+            <extension name="ldap" />
             <extension name="libxml" />
             <extension name="mbstring" />
-            <extension name="mcrypt" />
             <extension name="mysqli" />
             <extension name="mysqlnd" />
             <extension name="openssl" />
             <extension name="pcre" />
             <extension name="pdo_mysql" />
-            <extension name="pdo_pgsql" />
             <extension name="pdo_sqlite" />
-            <extension name="pgsql" />
             <extension name="readline" />
             <extension name="session" />
-            <extension name="sqlite3" />
+            <extension name="soap" />
             <extension name="standard" />
             <extension name="tokenizer" />
             <extension name="wddx" />
+            <extension name="xdebug" />
             <extension name="xml" />
             <extension name="xmlreader" />
             <extension name="xmlwriter" />
