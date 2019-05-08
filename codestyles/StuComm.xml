@@ -55,6 +55,7 @@
     <option name="DOWHILE_BRACE_FORCE" value="3" />
     <option name="WHILE_BRACE_FORCE" value="3" />
     <option name="FOR_BRACE_FORCE" value="3" />
+    <option name="SOFT_MARGINS" value="80,120" />
     <indentOptions>
       <option name="SMART_TABS" value="true" />
     </indentOptions>
