@@ -37,7 +37,6 @@
   <action id="ConvertIndentsToTabs">
     <keyboard-shortcut first-keystroke="shift ctrl e" second-keystroke="tab" />
   </action>
-  <action id="CopyReference" />
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="Editor Redo">
@@ -69,9 +68,6 @@
   <action id="ExpressionTypeInfo" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.TogglePathShowing" />
-  <action id="Git.ResolveConflicts">
-    <keyboard-shortcut first-keystroke="shift ctrl alt c" />
-  </action>
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="ctrl b" />
     <mouse-shortcut keystroke="button2" />
