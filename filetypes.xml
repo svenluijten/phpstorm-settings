@@ -2,34 +2,10 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
-      <mapping ext="cmp" type="HTML" />
-      <mapping pattern="emoji" type="PHP" />
-      <mapping pattern="forge" type="PHP" />
-      <mapping pattern="application" type="PHP" />
-      <mapping pattern="debtor_x_10785_filenaampje.txt" type="PLAIN_TEXT" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
-      <mapping pattern="QubizChangelog" type="PLAIN_TEXT" />
-      <mapping pattern="dashboardfilter" type="PLAIN_TEXT" />
-      <mapping pattern=".docker.env.example" type="PLAIN_TEXT" />
-      <mapping pattern="resume" type="PLAIN_TEXT" />
-      <mapping pattern="Ownable" type="PLAIN_TEXT" />
-      <mapping pattern="template-all-jobs.cmp" type="PLAIN_TEXT" />
-      <mapping pattern=".env.travis" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="queryFilter.php" type="PLAIN_TEXT" />
-      <mapping pattern="noties" type="PLAIN_TEXT" />
-      <mapping pattern="LoginSuccessHandler.php" type="PLAIN_TEXT" />
       <mapping pattern=".htacces" type="PLAIN_TEXT" />
-      <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
-      <mapping ext="samet" type="PLAIN_TEXT" />
-      <mapping ext="properties" type="PLAIN_TEXT" />
-      <mapping ext="txt-staging" type="PLAIN_TEXT" />
-      <mapping ext="txt-prod" type="PLAIN_TEXT" />
-      <mapping ext="mwb" type="PLAIN_TEXT" />
-      <mapping ext="txt-live" type="PLAIN_TEXT" />
       <mapping ext="excludes" type="XML" />
-      <mapping ext="oho" type="PHP files" />
     </extensionMap>
   </component>
 </application>
