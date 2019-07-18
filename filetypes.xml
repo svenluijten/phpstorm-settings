@@ -6,6 +6,7 @@
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".htacces" type="PLAIN_TEXT" />
+      <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping ext="excludes" type="XML" />
     </extensionMap>
   </component>
