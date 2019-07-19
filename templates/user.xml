@@ -1,7 +1,0 @@
-<templateSet group="user">
-  <template name="getEm" value="/** @var \Doctrine\ORM\EntityManager $em */&#10;$em = $this-&gt;getDoctrine()-&gt;getManager();" description="get doctrine manager" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="PHP" value="true" />
-    </context>
-  </template>
-</templateSet>
