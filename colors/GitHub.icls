@@ -2,16 +2,19 @@
   <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.8" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="15" />
-  </font>
-  <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
     <option name="EDITOR_FONT_SIZE" value="15" />
   </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
+  </font>
   <option name="EDITOR_LIGATURES" value="true" />
+  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
+  <option name="CONSOLE_FONT_SIZE" value="12" />
+  <option name="CONSOLE_LINE_SPACING" value="1.1" />
   <colors>
-    <option name="CONSOLE_BACKGROUND_KEY" value="f5f5f5" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="" />
     <option name="METHOD_SEPARATORS_COLOR" value="" />
   </colors>
   <attributes>
@@ -37,24 +40,9 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="CONSOLE_BLUE_BRIGHT_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="6a76fb" />
-      </value>
-    </option>
     <option name="CONSOLE_BLUE_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="a2fc4" />
-      </value>
-    </option>
-    <option name="CONSOLE_CYAN_BRIGHT_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="68fdfe" />
-      </value>
-    </option>
-    <option name="CONSOLE_CYAN_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="20c5c6" />
+        <option name="FOREGROUND" value="74abe0" />
       </value>
     </option>
     <option name="CONSOLE_ERROR_OUTPUT">
@@ -65,22 +53,7 @@
     </option>
     <option name="CONSOLE_GREEN_BRIGHT_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="67f86f" />
-      </value>
-    </option>
-    <option name="CONSOLE_GREEN_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="1dc121" />
-      </value>
-    </option>
-    <option name="CONSOLE_MAGENTA_BRIGHT_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="fd7cfc" />
-      </value>
-    </option>
-    <option name="CONSOLE_MAGENTA_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="c839c5" />
+        <option name="FOREGROUND" value="66c358" />
       </value>
     </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
@@ -93,29 +66,9 @@
         <option name="BACKGROUND" value="e5fafc" />
       </value>
     </option>
-    <option name="CONSOLE_RED_BRIGHT_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="fd6f6b" />
-      </value>
-    </option>
-    <option name="CONSOLE_RED_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="c51e14" />
-      </value>
-    </option>
-    <option name="CONSOLE_WHITE_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="c7c7c7" />
-      </value>
-    </option>
-    <option name="CONSOLE_YELLOW_BRIGHT_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="fffa72" />
-      </value>
-    </option>
     <option name="CONSOLE_YELLOW_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="c7c329" />
+        <option name="FOREGROUND" value="cdcd00" />
       </value>
     </option>
     <option name="CSS.COMMENT">
@@ -12623,7 +12576,7 @@
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ff" />
-        <option name="FONT_TYPE" value="3" />
+        <option name="FONT_TYPE" value="1" />
         <option name="ERROR_STRIPE_COLOR" value="ff" />
       </value>
     </option>
