@@ -86,6 +86,10 @@
   </action>
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
+  <action id="Jdbc.RunSqlScript">
+    <keyboard-shortcut first-keystroke="shift ctrl f10" />
+    <keyboard-shortcut first-keystroke="shift ctrl d" />
+  </action>
   <action id="MethodDown" />
   <action id="MethodUp" />
   <action id="MoveLineDown">
@@ -113,6 +117,7 @@
   </action>
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="alt r" />
+    <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
@@ -127,7 +132,10 @@
   <action id="RunClass">
     <keyboard-shortcut first-keystroke="shift ctrl f10" />
     <keyboard-shortcut first-keystroke="shift ctrl d" />
-    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
+  <action id="RunDashboard.Run">
+    <keyboard-shortcut first-keystroke="shift ctrl f10" />
+    <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="shift ctrl p" />
