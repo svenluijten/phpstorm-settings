@@ -3,6 +3,14 @@
     <remote-server name="Docker" type="docker">
       <configuration>
         <option name="apiUrl" value="tcp://localhost:2375" />
+        <option name="pathMappings">
+          <list>
+            <DockerPathMappingImpl>
+              <option name="localPath" value="C:\Users\Sven\Documents\Code\Portal" />
+              <option name="virtualMachinePath" value="/var/www/portal" />
+            </DockerPathMappingImpl>
+          </list>
+        </option>
       </configuration>
     </remote-server>
   </component>
