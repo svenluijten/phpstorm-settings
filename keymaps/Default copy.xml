@@ -30,6 +30,10 @@
     <keyboard-shortcut first-keystroke="shift meta o" />
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
+  <action id="GotoLine" />
+  <action id="PhpListenDebugAction">
+    <keyboard-shortcut first-keystroke="meta l" />
+  </action>
   <action id="QuickChangeScheme" />
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="ctrl g" />
@@ -38,4 +42,5 @@
   <action id="Table-selectPreviousRow">
     <keyboard-shortcut first-keystroke="up" />
   </action>
+  <action id="Vcs.Log.FocusTextFilter" />
 </keymap>
