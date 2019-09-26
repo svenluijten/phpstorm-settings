@@ -3,7 +3,6 @@
     <option name="customScope" value="App &amp; Views" />
     <option name="defaultScopeName" value="App &amp; Views" />
     <option name="SEARCH_SCOPE" value="App &amp; Views" />
-    <option name="FILE_MASK" value="*.php" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
