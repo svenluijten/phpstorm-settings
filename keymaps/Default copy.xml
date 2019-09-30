@@ -42,6 +42,9 @@
     <keyboard-shortcut first-keystroke="ctrl g" />
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
+  <action id="SplitSelectionIntoLines">
+    <keyboard-shortcut first-keystroke="ctrl meta l" />
+  </action>
   <action id="Table-selectPreviousRow">
     <keyboard-shortcut first-keystroke="up" />
   </action>
