@@ -4,15 +4,15 @@
     <extensionMap>
       <mapping ext="stucomm-php73-builder" type="Dockerfile" />
       <mapping pattern="*.neon.dist" type="Neon" />
-      <mapping pattern=".php_cs.dist" type="PHP" />
       <mapping pattern=".php_cs" type="PHP" />
+      <mapping pattern=".php_cs.dist" type="PHP" />
+      <mapping pattern=".htacces" type="PLAIN_TEXT" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern=".htacces" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <mapping ext="excludes" type="XML" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping ext="config" type="XML" />
+      <mapping ext="excludes" type="XML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".gitattributes" approved="true" type="PLAIN_TEXT" />
