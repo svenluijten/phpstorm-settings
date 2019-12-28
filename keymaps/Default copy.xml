@@ -36,16 +36,21 @@
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
   <action id="GotoLine" />
+  <action id="GotoTest" />
   <action id="ParameterInfo" />
   <action id="PhpListenDebugAction">
     <keyboard-shortcut first-keystroke="meta l" />
   </action>
   <action id="QuickChangeScheme" />
   <action id="RecentChanges" />
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="ctrl g" />
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
+  <action id="ServiceView.ShowServices" />
   <action id="SplitSelectionIntoLines">
     <keyboard-shortcut first-keystroke="ctrl meta l" />
   </action>
