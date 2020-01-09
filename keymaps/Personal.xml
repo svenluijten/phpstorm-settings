@@ -117,6 +117,9 @@
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="alt p" />
   </action>
+  <action id="PhpListenDebugAction">
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
   <action id="RecentChangedFiles">
     <keyboard-shortcut first-keystroke="shift ctrl r" />
   </action>
