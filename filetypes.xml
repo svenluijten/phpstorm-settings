@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
+      <mapping pattern="scratch_1.txt" type="Dockerfile" />
+      <mapping pattern="scratch.Dockerfile" type="Dockerfile" />
       <mapping ext="stucomm-php5-builder" type="Dockerfile" />
       <mapping ext="stucomm-azure-vmss-builder" type="Dockerfile" />
       <mapping ext="stucomm-rpm-apt-builder" type="Dockerfile" />
