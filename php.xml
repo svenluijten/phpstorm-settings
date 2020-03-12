@@ -2,11 +2,11 @@
   <component name="PhpAutoImport" global_class_behavior="PREFER_IMPORT" />
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="fcfc3f3e-bcaa-41c0-93a4-d2d61e10e769" name="PHP 7.3" home="\usr\local\Cellar\php@7.3\7.3.13\bin\php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="fcfc3f3e-bcaa-41c0-93a4-d2d61e10e769" name="PHP 7.3" home="/usr/local/Cellar/php@7.3/7.3.13/bin/php" debugger_id="php.debugger.XDebug" />
       <interpreter id="c01b8c5f-163e-440f-92d9-8db53589f8d1" name="PHP 7.1" home="\usr\local\Cellar\php@7.1\7.1.33\bin\php" debugger_id="php.debugger.XDebug" />
-      <interpreter id="9c79eef0-eefa-4cd7-a9bf-1abfa4010116" name="PHP 7.2" home="\usr\local\Cellar\php@7.2\7.2.26\bin\php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="9c79eef0-eefa-4cd7-a9bf-1abfa4010116" name="PHP 7.2" home="/usr/local/Cellar/php@7.2/7.2.26/bin/php" debugger_id="php.debugger.XDebug" />
       <interpreter id="00c88c58-e95b-414c-9fa5-4d3f3325efaa" name="PHP 7.4" home="docker://DATA" debugger_id="php.debugger.XDebug">
-        <remote_data DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="php:7.4-cli" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" />
+        <remote_data DOCKER_ACCOUNT_NAME="Docker2" DOCKER_IMAGE_NAME="php:7.4-cli" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" />
       </interpreter>
       <interpreter id="49d3261f-b2b5-4494-858d-57a9c57ec0d5" name="PHP" home="\usr\local\Cellar\php@7.2\7.2.26\bin\php" debugger_id="php.debugger.XDebug" />
     </interpreters>
