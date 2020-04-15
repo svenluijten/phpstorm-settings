@@ -13,6 +13,7 @@
       <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern=".php_cs.dist" type="PHP" />
       <mapping pattern=".htacces" type="PLAIN_TEXT" />
+      <mapping pattern="Jenkinsfile.AzureDevEnv" type="PLAIN_TEXT" />
       <mapping pattern="foo" type="PLAIN_TEXT" />
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
@@ -22,6 +23,7 @@
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping ext="config" type="XML" />
       <mapping ext="excludes" type="XML" />
+      <mapping ext="azuredevenv" type="htaccess" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".gitattributes" approved="true" type="PLAIN_TEXT" />
