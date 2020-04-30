@@ -13,9 +13,9 @@
       <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern=".php_cs.dist" type="PHP" />
       <mapping pattern=".htacces" type="PLAIN_TEXT" />
-      <mapping pattern="Jenkinsfile.AzureDevEnv" type="PLAIN_TEXT" />
       <mapping pattern="foo" type="PLAIN_TEXT" />
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
+      <mapping pattern="Jenkinsfile.AzureDevEnv" type="PLAIN_TEXT" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="mwb" type="PLAIN_TEXT" />
