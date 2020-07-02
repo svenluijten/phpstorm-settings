@@ -33,6 +33,7 @@
   </action>
   <action id="CodeGlance.toggle">
     <keyboard-shortcut first-keystroke="ctrl h" second-keystroke="ctrl m" />
+    <keyboard-shortcut first-keystroke="alt 3" />
   </action>
   <action id="CompareTwoFiles" />
   <action id="ConvertIndentsToSpaces">
