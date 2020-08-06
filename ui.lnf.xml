@@ -3,10 +3,13 @@
     <option name="UI_SHOW_FILES" value="false" />
   </component>
   <component name="UISettings">
+    <option name="EDITOR_TAB_PLACEMENT" value="2" />
     <option name="HIDE_TOOL_STRIPES" value="true" />
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="5" />
+    <option name="OPEN_TABS_AT_THE_END" value="true" />
     <option name="SHOW_EDITOR_TOOLTIP" value="false" />
     <option name="SHOW_MAIN_TOOLBAR" value="true" />
     <option name="SHOW_NAVIGATION_BAR" value="false" />
+    <option name="USE_SMALL_LABELS_ON_TABS" value="false" />
   </component>
 </application>
