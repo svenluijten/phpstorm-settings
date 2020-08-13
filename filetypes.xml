@@ -4,23 +4,23 @@
     <extensionMap>
       <mapping pattern="scratch_1.txt" type="Dockerfile" />
       <mapping pattern="scratch.Dockerfile" type="Dockerfile" />
-      <mapping ext="stucomm-php5-builder" type="Dockerfile" />
-      <mapping ext="stucomm-azure-vmss-builder" type="Dockerfile" />
-      <mapping ext="stucomm-rpm-apt-builder" type="Dockerfile" />
-      <mapping ext="stucomm-php73-builder" type="Dockerfile" />
       <mapping ext="stucomm-php7-builder" type="Dockerfile" />
+      <mapping ext="stucomm-azure-vmss-builder" type="Dockerfile" />
+      <mapping ext="stucomm-php5-builder" type="Dockerfile" />
+      <mapping ext="stucomm-php73-builder" type="Dockerfile" />
+      <mapping ext="stucomm-rpm-apt-builder" type="Dockerfile" />
       <mapping pattern="*.neon.dist" type="Neon" />
-      <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern=".php_cs.dist" type="PHP" />
-      <mapping pattern=".htacces" type="PLAIN_TEXT" />
-      <mapping pattern="foo" type="PLAIN_TEXT" />
+      <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
-      <mapping pattern="Jenkinsfile.AzureDevEnv" type="PLAIN_TEXT" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
+      <mapping pattern="foo" type="PLAIN_TEXT" />
+      <mapping pattern="Jenkinsfile.AzureDevEnv" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".htacces" type="PLAIN_TEXT" />
       <mapping ext="mwb" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping ext="config" type="XML" />
       <mapping ext="excludes" type="XML" />
       <mapping ext="azuredevenv" type="htaccess" />
