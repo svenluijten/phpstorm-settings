@@ -15,6 +15,5 @@
     <option name="RENAME_SEARCH_NON_CODE_FOR_FUNCTION" value="true" />
     <option name="EXTRACT_METHOD_DEFAULT_VISIBILITY" value="protected" />
     <option name="EXTRACT_FIELD_DEFAULT_VISIBILITY" value="protected" />
-    <option name="INLINE_LOCAL_THIS" value="true" />
   </component>
 </application>
