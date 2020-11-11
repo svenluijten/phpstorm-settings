@@ -7,6 +7,10 @@
     <keyboard-shortcut first-keystroke="alt a" />
   </action>
   <action id="CheckinProject" />
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="ctrl space" />
+    <keyboard-shortcut first-keystroke="alt space" />
+  </action>
   <action id="Debug" />
   <action id="EditorCutLineEnd" />
   <action id="EditorDeleteLine">
@@ -51,6 +55,9 @@
     <keyboard-shortcut first-keystroke="meta l" />
   </action>
   <action id="QuickChangeScheme" />
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="meta y" />
+  </action>
   <action id="RecentChanges" />
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift meta t" />
