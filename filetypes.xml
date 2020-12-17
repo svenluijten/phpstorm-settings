@@ -1,27 +1,25 @@
 <application>
-  <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+  <component name="FileTypeManager" version="18">
+    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
-      <mapping pattern="scratch.Dockerfile" type="Dockerfile" />
       <mapping pattern="scratch_1.txt" type="Dockerfile" />
+      <mapping pattern="scratch.Dockerfile" type="Dockerfile" />
       <mapping ext="stucomm-php7-builder" type="Dockerfile" />
       <mapping ext="stucomm-azure-vmss-builder" type="Dockerfile" />
       <mapping ext="stucomm-php5-builder" type="Dockerfile" />
       <mapping ext="stucomm-php73-builder" type="Dockerfile" />
       <mapping ext="stucomm-rpm-apt-builder" type="Dockerfile" />
       <mapping pattern="*.neon.dist" type="Neon" />
-      <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern=".php_cs.dist" type="PHP" />
-      <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
-      <mapping pattern=".htacces" type="PLAIN_TEXT" />
+      <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
+      <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="foo" type="PLAIN_TEXT" />
       <mapping pattern="Jenkinsfile.AzureDevEnv" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".htacces" type="PLAIN_TEXT" />
       <mapping ext="mwb" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping ext="config" type="XML" />
       <mapping ext="excludes" type="XML" />
       <mapping ext="azuredevenv" type="htaccess" />
@@ -30,12 +28,13 @@
       <mapping pattern="tsconfig.lib.json" type="tsconfig" />
       <mapping pattern="tsconfig.e2e.json" type="tsconfig" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".gitattributes" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
-      <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping pattern=".gitattributes" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
