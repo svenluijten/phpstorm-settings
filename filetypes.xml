@@ -21,6 +21,7 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".htacces" type="PLAIN_TEXT" />
       <mapping ext="mwb" type="PLAIN_TEXT" />
+      <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="config" type="XML" />
       <mapping ext="excludes" type="XML" />
       <mapping ext="azuredevenv" type="htaccess" />
