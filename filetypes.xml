@@ -9,7 +9,6 @@
       <mapping ext="stucomm-php5-builder" type="Dockerfile" />
       <mapping ext="stucomm-php73-builder" type="Dockerfile" />
       <mapping ext="stucomm-rpm-apt-builder" type="Dockerfile" />
-      <mapping pattern="*.neon.dist" type="Neon" />
       <mapping pattern=".php_cs.dist" type="PHP" />
       <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
@@ -38,6 +37,7 @@
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping pattern=".gitattributes" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern="*.neon.dist" type="Neon" />
     </extensionMap>
   </component>
 </application>
