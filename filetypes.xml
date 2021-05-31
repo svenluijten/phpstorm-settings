@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list="*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
+      <mapping pattern="finish" type="AUTO_DETECTED" />
       <mapping pattern="scratch_1.txt" type="Dockerfile" />
       <mapping pattern="scratch.Dockerfile" type="Dockerfile" />
       <mapping ext="stucomm-php7-builder" type="Dockerfile" />
